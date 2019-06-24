@@ -57,3 +57,7 @@ You can also run these commands for running projects based on the part they’re
  - `p3` for running part #3 (SVM)
  - `p4` for running part #4 (Clustering)
  - `p5` for running part #5 (Neural Network)
+
+## Report
+In order to read more about this project please follow this link:
+https://github.com/ArefMq/ML-Project/blob/master/report.pdf
