@@ -61,3 +61,4 @@ You can also run these commands for running projects based on the part they’re
 ## Report
 In order to read more about this project please follow this link:
 https://github.com/ArefMq/ML-Project/blob/master/report.pdf
+
