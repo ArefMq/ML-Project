@@ -2,7 +2,7 @@
 This part, contains project sample for Classification in Python using Sci-Kit tools.
 
 ## Run Clustering
-In order to run the project please follow <a href="https://github.com/ArefMq/DataMiningProject/blob/master/README.md#Runing Project">
+In order to run the project please follow <a href="https://github.com/ArefMq/ML-Project/blob/master/README.md#Runing Project">
 this link</a>.
 
 ## Dataset
@@ -49,7 +49,7 @@ This is PCA plot of the clustered data for K-Means Clustering:
 This is PCA plot of the clustered data for Hierarchical Clustering:
 ![alt text][hc]
 
-[kmeans]: https://github.com/ArefMq/DataMiningProject/blob/master/clustering/kmeans.png "K-Means"
-[hc]: https://github.com/ArefMq/DataMiningProject/blob/master/clustering/kmeans.png "Hierarchical-Clustering"
+[kmeans]: https://github.com/ArefMq/ML-Project/blob/master/clustering/kmeans.png "K-Means"
+[hc]: https://github.com/ArefMq/ML-Project/blob/master/clustering/kmeans.png "Hierarchical-Clustering"
 
 
