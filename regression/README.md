@@ -2,7 +2,7 @@
 This part, contains project sample for Regression in Python using Sci-Kit tools.
 
 ## Run Regression
-In order to run the project please follow <a href="https://github.com/ArefMq/DataMiningProject/blob/master/README.md#Runing Project">
+In order to run the project please follow <a href="https://github.com/ArefMq/ML-Project/blob/master/README.md#Runing Project">
 this link</a>.
 
 ## Results
