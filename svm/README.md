@@ -2,7 +2,7 @@
 This part, contains project sample for Classification in Python using Sci-Kit tools.
 
 ## Run Regression
-In order to run the project please follow <a href="https://github.com/ArefMq/DataMiningProject/blob/master/README.md#Runing Project">
+In order to run the project please follow <a href="https://github.com/ArefMq/ML-Project/blob/master/README.md#Runing Project">
 this link</a>.
 
  
@@ -39,6 +39,6 @@ In this example **Decision Tree Classifier** has the highest F-Score and R-Squar
 Here is the ROC Curve of the mentioned methods:
 ![alt text][roc]
 
-[roc]: https://github.com/ArefMq/DataMiningProject/blob/master/svm/roccurve.png "ROC"
+[roc]: https://github.com/ArefMq/ML-Project/blob/master/svm/roccurve.png "ROC"
 
 
