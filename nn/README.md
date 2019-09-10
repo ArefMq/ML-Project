@@ -2,7 +2,7 @@
 This part, contains project sample for Neural Network in Python.
 
 ## Run Regression
-In order to run the project please follow <a href="https://github.com/ArefMq/DataMiningProject/blob/master/README.md#Runing Project">
+In order to run the project please follow <a href="https://github.com/ArefMq/ML-Project/blob/master/README.md#Runing Project">
 this link</a>.
 
  
@@ -34,13 +34,13 @@ This is the ROC Curve of Models:
 ![alt text][roc5foldzoom]
 
 
-### Comparing to the <a href="https://github.com/ArefMq/DataMiningProject/blob/master/classification/README.md">Second Project</a>
+### Comparing to the <a href="https://github.com/ArefMq/ML-Project/blob/master/classification/README.md">Second Project</a>
 In the second project, the LDA classifier achieved the best results with F-Score of 0.995 on the test data. And as, we
 can see that designed Neural Networks has relatively lower F-Score than the LDA. However, this does not mean in general 
 LDA works better than every Neural Network in this problem. But there could be a Network that has better outcome than
 my designs. Hence, we can conclude, on this dataset and with my knowledge and my effort, the LDA has shown a better result.
 
 
-[NetworkStructure]: https://github.com/ArefMq/DataMiningProject/blob/master/nn/network_structure.png "Network Structure"
-[roc5fold]: https://github.com/ArefMq/DataMiningProject/blob/master/nn/roc5fold.png "ROC"
-[roc5foldzoom]: https://github.com/ArefMq/DataMiningProject/blob/master/nn/roc5fold_zoom.png "ROC Zoom"
+[NetworkStructure]: https://github.com/ArefMq/ML-Project/blob/master/nn/network_structure.png "Network Structure"
+[roc5fold]: https://github.com/ArefMq/ML-Project/blob/master/nn/roc5fold.png "ROC"
+[roc5foldzoom]: https://github.com/ArefMq/ML-Project/blob/master/nn/roc5fold_zoom.png "ROC Zoom"
