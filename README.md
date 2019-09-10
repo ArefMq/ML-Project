@@ -5,7 +5,7 @@ Mathematics and Computer Science. This report covers the following contents:
 ## Data
 To learn about the data set please follow these links.
  
-- <a href="https://github.com/ArefMq/DataMiningProject/blob/master/dataset/winequality.txt">Dataset Description</a>
+- <a href="https://github.com/ArefMq/ML-Project/blob/master/dataset/winequality.txt">Dataset Description</a>
 - <a href="https://archive.ics.uci.edu/ml/datasets/Wine+Quality">Dataset Web site</a>
 
 Dataset for clustering is:
@@ -14,11 +14,11 @@ Dataset for clustering is:
 ## Results
 To view result please follow these links:
  
-- <a href="https://github.com/ArefMq/DataMiningProject/blob/master/regression/README.md">Regression Results (project #1)</a>
-- <a href="https://github.com/ArefMq/DataMiningProject/blob/master/classification/README.md">Classification Results (project #2)</a>
-- <a href="https://github.com/ArefMq/DataMiningProject/blob/master/svm/README.md">SVM Results (project #3)</a>
-- <a href="https://github.com/ArefMq/DataMiningProject/blob/master/clustering/README.md">Clustering Results (project #4)</a>
-- <a href="https://github.com/ArefMq/DataMiningProject/blob/master/nn/README.md">Neural Network Results (project #5)</a>
+- <a href="https://github.com/ArefMq/ML-Project/blob/master/regression/README.md">Regression Results (project #1)</a>
+- <a href="https://github.com/ArefMq/ML-Project/blob/master/classification/README.md">Classification Results (project #2)</a>
+- <a href="https://github.com/ArefMq/ML-Project/blob/master/svm/README.md">SVM Results (project #3)</a>
+- <a href="https://github.com/ArefMq/ML-Project/blob/master/clustering/README.md">Clustering Results (project #4)</a>
+- <a href="https://github.com/ArefMq/ML-Project/blob/master/nn/README.md">Neural Network Results (project #5)</a>
 
 ------------------------------------------------------------------------------------------------------------------------
 
