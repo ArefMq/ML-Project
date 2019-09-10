@@ -2,7 +2,7 @@
 This part, contains project sample for Classification in Python using Sci-Kit tools.
 
 ## Run Regression
-In order to run the project please follow <a href="https://github.com/ArefMq/DataMiningProject/blob/master/README.md#Runing Project">
+In order to run the project please follow <a href="https://github.com/ArefMq/ML-Project/blob/master/README.md#Runing Project">
 this link</a>.
 
  
@@ -32,5 +32,5 @@ Here is the ROC Curve of the mentioned methods using Leave-One-Out Cross Validat
 ![alt text][rocloocv]
 
 
-[roc5fold]: https://github.com/ArefMq/DataMiningProject/blob/master/classification/roc5fold.png "ROC using 5-Fold CV"
-[rocloocv]: https://github.com/ArefMq/DataMiningProject/blob/master/classification/rocloocv.png "ROC using LOOCV"
+[roc5fold]: https://github.com/ArefMq/ML-Project/blob/master/classification/roc5fold.png "ROC using 5-Fold CV"
+[rocloocv]: https://github.com/ArefMq/ML-Project/blob/master/classification/rocloocv.png "ROC using LOOCV"
